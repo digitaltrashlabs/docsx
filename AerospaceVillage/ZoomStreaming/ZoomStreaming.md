@@ -95,7 +95,7 @@ Once the meeting is started, you can follow these steps to start streaming:
 
 This is a screen grab of the "Live on Custom Live Streaming Service" dialog
 
-![Live on Custom Live Streaming Service dialog](images/ZoomCustomDestinationDialog.png =600x)
+![Live on Custom Live Streaming Service dialog](images/ZoomCustomDestinationDialog.png)
 
 Zoom will take a few seconds to get the stream setup. A web page will open up to your Twitch channel. You should see on the Twitch channel that the stream is starting. If everything has gone well you should be live streaming to Twitch!
 
