@@ -10,7 +10,9 @@ Before you start you'll need:
 
 Understand that Zoom will only stream to a single destination. If you need to stream to multiple destinations at the same time (for example Twitch _and_ YouTube at the same time) you'll need a restreaming service like restream.io
 
-## Getting streaming info from Twitch
+## Streaming from Zoom to Twitch
+
+### Getting streaming info from Twitch
 
 You can stream to Twitch in Zoom but it is not natively supported. Fortunately, you can setup a custom streaming destination. To do this you'll need to collect some information from Twitch first.
 
@@ -22,7 +24,7 @@ There are three pieces of info that Zoom wants to setup a costume streaming dest
 - Streaming key
 - Live streaming page URL
 
-#### Streaming URL
+### Streaming URL
 
 The streaming URL for Twitch is:
 
@@ -30,7 +32,7 @@ rtmp://live.twitch.tv/app
 
 This is the stream destination URL. It should be the same regardless of the streaming application you're using (for example, it should work for OBS)
 
-#### Streaming Key
+### Streaming Key
 
 To find the streaming key you need to login to your Twitch account. You can follow these steps:
  
@@ -43,7 +45,7 @@ To find the streaming key you need to login to your Twitch account. You can foll
 
 You now have your Primary Stream Key in your clipboard. This key shouldn't change unless you regenerate it. Keep it safe. It is a secret. If someone gets your streaming key they could stream to your Twitch account without your permission. You can paste it into a temporary document for now. We'll need it later on.
 
-#### Live Streaming URL
+### Live Streaming URL
 
 This is the URL to your twitch account channel. It will be:
 
@@ -57,7 +59,7 @@ https://www.twitch.tv/aerospacevillage
 
 Is is a public address so it is not a secret.
 
-## Enabling Zoom streaming
+### Enabling Zoom streaming
 
 Streaming in Zoom is not enabled by default. You'll need to enable it. You can follow these steps:
 
@@ -77,7 +79,7 @@ This is a screen grab of the dialog:
 ![allow live streaming in Zoom](images/ZoomAllowLiveStreamingDialog.png)
 
 
-## Streaming to Twitch while in a Zoom meeting
+### Streaming to Twitch while in a Zoom meeting
 
 At this point we should have all the informaiton that Zoom need to stream to Twitch and we should have Zoom configured to stream to a custom destination (Twitch). 
 
@@ -106,30 +108,7 @@ My experience was that the video on Twitch was higher quality than the video in 
 Zoom will put a Zoom logo on the lower right corner of the Twitch video stream. Personally I don't appreciate this since I'm paying for the service and shouldn't be forced to advertise for them. 
 
 
-----
+## Streaming to YouTube from Zoom
 
+_In work_ 
 
-Streaming Key: <streaming key>
-Live Streaming URL: https://www.twitch.tv/aerospacevillage
-
-Info needed from Twitch:
-
-Stream URL is the same for any stream to twitch which is 
-rtmp://live.twitch.tv/app
-
-Streaming Key is obtained from your twitch account
-
-
-
-Configure Twitch to record streams:
-While in the  “Channel and Videos” tab scroll down to “Store past broadcasts” and enable that. For free accounts it will keep past streams for 14 days.
-
-Setting up Zoom to enable Twitch streaming
-To stream with Zoom you must have a paid account
-
-Login to your Zoom account on the web page
-Goto Settings
-Select the “Meeting” Tab
-Scroll all the way down (about ¾ down the page) to “Allow live streaming”
-Click “Custom Live Streaming” to enable live streaming to a custom destination
-You can also click “Facebook”, “Workplace by Facebook” or “YouTube” if you intend to stream to those destinations.
