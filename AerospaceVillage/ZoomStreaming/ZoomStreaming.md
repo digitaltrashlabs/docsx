@@ -73,6 +73,7 @@ You can also click “Facebook”, “Workplace by Facebook” or “YouTube” 
 When you click on "Custom Live Streaming Service" a text box will open up. You can put a note to the host here. It would be good to put the three pieces of information here: Streaming URL, Streaming key and, Live streaming page URL. Although, you might not want to provide the streaming key for security reasons. If so, you'll need to know the key when you start the streaming later on.
 
 ![allow live streaming in Zoom](images/ZoomAllowLiveStreamingDialog.png)
+Custom Streaming Dialog
 
 ## Streaming to Twitch while in a Zoom meeting
 
