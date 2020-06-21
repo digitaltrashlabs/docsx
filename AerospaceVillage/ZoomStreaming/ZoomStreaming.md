@@ -70,10 +70,12 @@ Streaming in Zoom is not enabled by default. You'll need to enable it. You can f
 
 You can also click “Facebook”, “Workplace by Facebook” or “YouTube” now if you intend to stream to those destinations.
 
-When you click on "Custom Live Streaming Service" a text box will open up. You can put a note to the host here. It would be good to put the three pieces of information here: Streaming URL, Streaming key and, Live streaming page URL. Although, you might not want to provide the streaming key for security reasons. If so, you'll need to know the key when you start the streaming later on.
+When you click on "Custom Live Streaming Service" a text box will open up. You can put a note to the host here. It would be good to put the three pieces of information here: Streaming URL, Streaming key and, Live streaming page URL. Although, you might not want to provide the streaming key for security reasons. If so, you'll need to know the key when you start the streaming later on. 
+
+This is a screen grab of the dialog:
 
 ![allow live streaming in Zoom](images/ZoomAllowLiveStreamingDialog.png)
-<center>Custom Streaming Dialog</center>
+
 
 ## Streaming to Twitch while in a Zoom meeting
 
