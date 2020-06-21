@@ -93,6 +93,10 @@ Once the meeting is started, you can follow these steps to start streaming:
 - If you put these in the note to the host that information will be displayed
 - Click "Go Live"
 
+This is a screen grab of the "Live on Custom Live Streaming Service" dialog
+
+![Live on Custom Live Streaming Service dialog](images/ZoomCustomDestinationDialog.png)
+
 Zoom will take a few seconds to get the stream setup. A web page will open up to your Twitch channel. You should see on the Twitch channel that the stream is starting. If everything has gone well you should be live streaming to Twitch!
 
 Know that there will be a delay between what you're seing on the Zoom meeting and the stream on Twitch. I've experienced about 15 seconds but it may be different for you depending on your network speed and such.
