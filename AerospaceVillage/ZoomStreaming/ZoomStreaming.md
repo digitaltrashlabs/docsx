@@ -49,9 +49,9 @@ You now have your Primary Stream Key in your clipboard. This key shouldn't chang
 
 This is the URL to your twitch account channel. It will be:
 
-https://www.twitch.tv/\<username\> 
+https://www.twitch.tv/&ltusername&gt 
 
-Where <username> is your Twitch account username. You can go to your Twitch channel web page and copy it from there if needed.
+Where &ltusername&gt is your Twitch account username. You can go to your Twitch channel web page and copy it from there if needed.
 
 For the Aerospace Village, the twitch account channel URL is:
 
