@@ -49,7 +49,7 @@ You now have your Primary Stream Key in your clipboard. This key shouldn't chang
 
 This is the URL to your twitch account channel. It will be:
 
-https://www.twitch.tv/<username> 
+https://www.twitch.tv/\<username\> 
 
 Where <username> is your Twitch account username. You can go to your Twitch channel web page and copy it from there if needed.
 
