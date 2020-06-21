@@ -28,7 +28,7 @@ There are three pieces of info that Zoom wants to setup a costume streaming dest
 
 The streaming URL for Twitch is:
 
-rtmp://live.twitch.tv/app
+`rtmp://live.twitch.tv/app`
 
 This is the stream destination URL. It should be the same regardless of the streaming application you're using (for example, it should work for OBS)
 
